@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{48DF73AF-E297-AEC1-37B2-9CA962A00C94}|">
+  <MonoDevelop.Ide.ItemProperties.AltUnityDriver PreferredExecutionTarget="ec3879bd-4a4d-46c5-bf88-3b445bb5fc71" />
+  <MonoDevelop.Ide.ItemProperties.AltDriver PreferredExecutionTarget="dd1ffcda-3b13-4a16-93c6-2157d3d3fc4d" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Editor/NewAltUnityTest.cs">
+    <Files>
+      <File FileName="Assets/Scripts/player_movement.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="../Unity Sample/New Unity Project/Assets/AltTester/AltServer/Input.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Credits.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EndTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/follow_player.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LevelComplete.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Menu.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/player_collision.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Score.cs" Line="1" Column="1" />
+      <File FileName="Assets/AltUnityTester/AltUnityServer/Input.cs" Line="540" Column="1" />
+      <File FileName="Assets/AltUnityTester/AltUnityServer/InputController.cs" Line="243" Column="1" />
+      <File FileName="Assets/AltUnityTester/AltUnityDriver/Logging/UnityTarget.cs" Line="33" Column="1" />
+      <File FileName="Assets/Editor/Gameathon Test Scripts.cs" Line="46" Column="1" />
+      <File FileName="Assets/Editor/NewAltUnityTest.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Practice Project" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
